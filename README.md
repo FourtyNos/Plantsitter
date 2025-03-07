@@ -7,5 +7,5 @@ This integrates with Homeassistent and also has the atributes set to use for exa
 
 also Designed a Custom Case so it a little more childproof and more pretty.
 
-![Cover](esp-plantsitter_Cover)
+![Cover](esp-plantsitter_Cover.jpg)
 
